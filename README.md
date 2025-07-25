@@ -5,12 +5,19 @@ The dashboard showcases multiple views — including Price per Unit, Sales Amoun
 
 ## Key Features:
 ✅ 3 Interactive Dashboards:
-Dashboard 1: Total Price per Unit by customer and group
-Dashboard 2: Total Sales Amount breakdown
-Dashboard 3: Total Quantity Sold with line chart visualization
-Dynamic Filtering: Region-based slicers for quick comparison across North, South, and West zones
+
+Dashboard 1: Total Price per Unit by customer and group.
+
+Dashboard 2: Total Sales Amount breakdown.
+
+Dashboard 3: Total Quantity Sold with line chart visualization.
+
+Dynamic Filtering: Region-based slicers for quick comparison across North, South, and West zones.
+
 Customer Segmentation: Grouped insights (Group1, Group2, Group3, Vihaan)
+
 Visualizations: Includes bar and line charts for easy data interpretation
+
 Data Source: Sample sales data for analysis
 
 ## Tools & Techniques Used:
