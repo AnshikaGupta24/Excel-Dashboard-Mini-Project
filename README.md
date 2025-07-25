@@ -33,5 +33,5 @@ Microsoft Excel: Pivot Tables, Slicers, Charts (Bar & Line), Conditional Formatt
 7. Is there a region where a specific customer group performs significantly better or worse?
 8. What are the top 3 customers by sales or quantity in the South region?
 
-View: 
+Dashboard View: 
 https://github.com/AnshikaGupta24/Excel-Dashboard-Mini-Project/blob/main/Dashboard%20view.png
