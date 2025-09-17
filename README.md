@@ -3,6 +3,8 @@ This mini project showcases an interactive and visually appealing dashboard crea
 The project features a dynamic and interactive Sales Dashboard built entirely in Microsoft Excel. It provides a clear and concise visual summary of customer-wise sales data across different regions and customer groups.
 The dashboard showcases multiple views — including Price per Unit, Sales Amount, and Quantity Sold — each organized in separate sections with slicers for region-based filtering (North, South, West) and dashboard selection.
 
+![Alt text](https://github.com/AnshikaGupta24/Excel-Dashboard-Mini-Project/blob/8f5809138cf9c255ce943152764d9aefd214805e/Dashboard%20view.png)
+
 ## Key Features:
 ✅ 3 Interactive Dashboards:
 
